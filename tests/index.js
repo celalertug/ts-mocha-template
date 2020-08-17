@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 require("mocha");
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 var assert = require('assert');
 var dist_1 = require("../dist");
 describe('index', function () {

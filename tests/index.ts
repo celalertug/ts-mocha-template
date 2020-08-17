@@ -1,6 +1,9 @@
 import "mocha"
 
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 const assert = require('assert');
+
+
 import {add} from '../dist';
 
 
