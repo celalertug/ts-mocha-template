@@ -10,7 +10,7 @@ describe('index', function () {
         assert.deepStrictEqual(res, 9);
     });
     it('should say hello motherfucker', function () {
-        console.log("surprise motherfucker");
+        console.log('surprise motherfucker');
         assert.deepStrictEqual(true, true);
     });
 });
