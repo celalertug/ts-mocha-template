@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "repository": "https://github.com/celalertug/ts-mocha-template",
   "author": "celalertug",
+  "scripts": {
+    "build": "tsc --build src/tsconfig.json"
+  },
   "devDependencies": {
     "@types/mocha": "^8.0.2",
     "@types/node": "^14.0.27",
